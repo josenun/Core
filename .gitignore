@@ -1,3 +1,20 @@
+# SVN files
+*/.svn
+**/.svn
+**/.svn/*
+**/.svn/**
+**/.svn/**/*
+*/.svn/**
+*/.svn/**/*
+# Eclipse files
+.settings
+.classpath
+.project
+target/
+target/**
+target/**/*
+*/target/**
+*/target/**/*
 *.class
 
 # Package Files #

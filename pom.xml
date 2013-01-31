@@ -92,6 +92,6 @@
         </configuration>
       </plugin>
     </plugins>
-    <finalName>pagemarkers-distributed-services</finalName>
+    <finalName>core</finalName>
   </build>
 </project>
